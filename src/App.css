@@ -1,0 +1,24 @@
+.background {
+  border: solid black 20px;
+  text-align: center;
+  max-width: 29%;
+  height: 15rem;
+  justify-content:center; 
+}
+.butt{
+  display: flex;
+  justify-content: space-around;
+}
+.time-l{
+  display: flex;
+  justify-content: space-around;
+  font-size: 1.5rem
+}
+.timer{
+  display: flex;
+  justify-content: space-around;
+  font-size: 3rem;
+}
+.butt button{
+  width: 7rem;
+}
